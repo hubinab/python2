@@ -5,7 +5,12 @@ Elvileg megegyezik a sulis apival.
 
 ### Használata
 
-Letöltés után létre kell hozni egy python környezetet, ahol futtatjuk. Ehhez telepítve kell legyen a python 3.11 legalább.
+Letöltés után létre kell hozni egy python környezetet, ahol futtatjuk. Ehhez telepítve kell legyen a python 3.11 és hozzá a pip legalább.
+
+Ellenőrzés:
+
+	python --version
+	pip --version
 
 - Környezet létrehozása: `python -m venv teasprj`
 - A teasprj mappába kell másolni a letöltött könyvtárat.
