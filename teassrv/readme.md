@@ -15,7 +15,7 @@ Ellenőrzés:
 - Környezet létrehozása: `python -m venv teasprj`
 - A teasprj mappába kell másolni a letöltött könyvtárat.
 - Belépés a környezetbe: 
-	- linuxon és macen: `source /teasprj/bin/activate`
+	- linuxon és macen: `source teasprj/bin/activate`
 	- windowson cmd-ben: `teasprj\script\activate.bat`
 - Sikeres aktiválás után a prompt elején jelzi: `(teasprj)`
 - Belépés a könyvtárba: `cd teasprj/teassrv`
