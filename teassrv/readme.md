@@ -21,7 +21,7 @@ Ellenőrzés:
 - Belépés a könyvtárba: `cd teasprj/teassrv`
 - szükséges cuccok telepítése: `pip install -r req.txt`
 - Server futtatása: 
-	- Indítás (lovalhost:8000-en indul el alapértelmezés szerint): `python manage.py runserver`
+	- Indítás (localhost:8000-en indul el alapértelmezés szerint): `python manage.py runserver`
 	- Indítás másik ip/port-al: `python manage.py runserver ip:port`
 	
 Ha sikeres volt az indítás nagyjából ez jelenik meg:
